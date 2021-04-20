@@ -38,6 +38,15 @@ export default function App() {
 				{ answerText: '7', isCorrect: true },
 			],
 		},
+		{
+			questionText: 'Who has the most games played in the NHL?',
+			answerOptions: [
+				{ answerText: 'Sidney Crosby', isCorrect: false },
+				{ answerText: 'Gordie Howe', isCorrect: false },
+				{ answerText: 'Patrick Marleau', isCorrect: true },
+				{ answerText: 'Wayne Gretzky', isCorrect: false },
+			],
+		},
 	];
 
 	const [currentQuestion, setCurrentQuestion] = useState(0);
