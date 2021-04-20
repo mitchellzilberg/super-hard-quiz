@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/quiz-app/static/css/main.1fd98538.chunk.css",
-    "main.js": "/quiz-app/static/js/main.7dcf7a6f.chunk.js",
-    "main.js.map": "/quiz-app/static/js/main.7dcf7a6f.chunk.js.map",
-    "runtime-main.js": "/quiz-app/static/js/runtime-main.29e86ed2.js",
-    "runtime-main.js.map": "/quiz-app/static/js/runtime-main.29e86ed2.js.map",
-    "static/js/2.3532e017.chunk.js": "/quiz-app/static/js/2.3532e017.chunk.js",
-    "static/js/2.3532e017.chunk.js.map": "/quiz-app/static/js/2.3532e017.chunk.js.map",
-    "index.html": "/quiz-app/index.html",
-    "static/css/main.1fd98538.chunk.css.map": "/quiz-app/static/css/main.1fd98538.chunk.css.map",
-    "static/js/2.3532e017.chunk.js.LICENSE.txt": "/quiz-app/static/js/2.3532e017.chunk.js.LICENSE.txt"
+    "main.css": "/super-hard-quiz-app/static/css/main.1fd98538.chunk.css",
+    "main.js": "/super-hard-quiz-app/static/js/main.7dcf7a6f.chunk.js",
+    "main.js.map": "/super-hard-quiz-app/static/js/main.7dcf7a6f.chunk.js.map",
+    "runtime-main.js": "/super-hard-quiz-app/static/js/runtime-main.acdbf152.js",
+    "runtime-main.js.map": "/super-hard-quiz-app/static/js/runtime-main.acdbf152.js.map",
+    "static/js/2.3532e017.chunk.js": "/super-hard-quiz-app/static/js/2.3532e017.chunk.js",
+    "static/js/2.3532e017.chunk.js.map": "/super-hard-quiz-app/static/js/2.3532e017.chunk.js.map",
+    "index.html": "/super-hard-quiz-app/index.html",
+    "static/css/main.1fd98538.chunk.css.map": "/super-hard-quiz-app/static/css/main.1fd98538.chunk.css.map",
+    "static/js/2.3532e017.chunk.js.LICENSE.txt": "/super-hard-quiz-app/static/js/2.3532e017.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.29e86ed2.js",
+    "static/js/runtime-main.acdbf152.js",
     "static/js/2.3532e017.chunk.js",
     "static/css/main.1fd98538.chunk.css",
     "static/js/main.7dcf7a6f.chunk.js"
